@@ -94,3 +94,11 @@ footer {
   color: rgba(0, 0, 0, 0.5);
   text-align: center;
 }
+h3{
+  position: relative;
+  text-align: center;
+  font-weight: 200;
+}
+.country{
+  text-align: center;
+}
